@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA4BD417-192A-4C2E-AD65-61FDF35532DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "806C6B46-556B-4463-ACB4-37B68108A5D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Animations/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "806C6B46-556B-4463-ACB4-37B68108A5D5 - b7699f7bbb1a6dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Animations.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Animations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lumanas/Documents/Code%20Repository/Animations/Animations/Animations/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "806C6B46-556B-4463-ACB4-37B68108A5D5 - b7699f7bbb1a6c60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Animations.ViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "Animations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lumanas/Documents/Code%20Repository/Animations/Animations/Animations/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE12F850-B5EF-4A52-84B5-43E8B1878DAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Animations/CoreAnimation/MoveViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE12F850-B5EF-4A52-84B5-43E8B1878DAA - 9ec8858814fc5233"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in Animations.MoveViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Animations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lumanas/Documents/Code%20Repository/Animations/Animations/Animations/CoreAnimation/MoveViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "CE12F850-B5EF-4A52-84B5-43E8B1878DAA - 5348b3012cc6665a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Animations.MoveViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Animations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lumanas/Documents/Code%20Repository/Animations/Animations/Animations/CoreAnimation/MoveViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+               <Location
+                  uuid = "CE12F850-B5EF-4A52-84B5-43E8B1878DAA - 9ec8858814fc52d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIGraphicsImageRendererContext) -&gt; () in Animations.MoveViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Animations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lumanas/Documents/Code%20Repository/Animations/Animations/Animations/CoreAnimation/MoveViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
